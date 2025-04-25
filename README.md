@@ -20,4 +20,4 @@
 <img align="center" alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 <br/>
-Iniciante em desenvolvimento Web com foco em HTML, CSS, JavaScript e React. Estudando ADS e buscando oportunidades para aplicar meus conhecimentos.
+
