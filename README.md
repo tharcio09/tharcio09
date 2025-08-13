@@ -6,7 +6,7 @@
 <br/>
 
 ### Tecnologias que eu uso no meu dia  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,react,mongodb,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vue,mongodb,vscode)](https://skillicons.dev)
 
 
 </div>
