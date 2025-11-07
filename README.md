@@ -23,7 +23,7 @@ com foco em boas práticas, performance e aprendizado contínuo.
 ---
 
 ### ⚙️ Tecnologias & Ferramentas
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,mysql,mongodb,git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,mysql,mongodb,git,github,vscode&theme=dark" />
 
 #### 🧩 Em aprendizado: <img src="https://skillicons.dev/icons?i=ts,prisma,supabase,authjs&theme=dark" height="25" />
 
