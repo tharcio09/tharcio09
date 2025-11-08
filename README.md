@@ -25,7 +25,8 @@ com foco em boas práticas, performance e aprendizado contínuo.
 ### ⚙️ Tecnologias & Ferramentas
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,mysql,mongodb,git,github,vscode&theme=dark" />
 
-#### 🧩 Em aprendizado: <img src="https://skillicons.dev/icons?i=ts,prisma,supabase,authjs&theme=dark" height="25" />
+#### 🧩 Em aprendizado:
+<img src="https://skillicons.dev/icons?i=ts,prisma,supabase,authjs&theme=dark" height="25" />
 
 ---
 
@@ -56,12 +57,15 @@ com foco em boas práticas, performance e aprendizado contínuo.
 
 ---
 
-### 📊 Estatísticas
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=tharcio09&show_icons=true&theme=react&hide_border=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharcio09&layout=compact&theme=react&hide_border=true" />
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tharcio09&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=7200" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharcio09&layout=compact&theme=react&hide_border=true&cache_seconds=7200" />
+</p>
 
 ---
 
 🖤 _“Codar, aprender e evoluir.”_
-</div>
 
+</div>
