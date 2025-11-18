@@ -1,34 +1,38 @@
 <div align="center">
 
-## 👨‍💻 Tharcio Santos  
-**Desenvolvedor Full-Stack | Estudante de ADS | Entusiasta por Tecnologia**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=👨‍💻+Tharcio+Santos;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Transformando+ideias+em+código" alt="Typing SVG" />
 
-Transformo ideias em soluções digitais eficientes e intuitivas.  
-Atualmente me especializando em **React**, **Next.js**, **Node.js** e **Tailwind CSS**,  
-com foco em boas práticas, performance e aprendizado contínuo.
+<br>
+
+<p>
+  Transformo ideias em soluções digitais eficientes e intuitivas.<br>
+  Foco em boas práticas, performance e aprendizado contínuo.
+</p>
 
 ---
 
 ### 🌍 Conecte-se comigo
-<a href="https://www.linkedin.com/in/tharcio-santos-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://tharcio-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfólio-000000?style=flat&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:tharciosantos09@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/tharcio-santos-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tharcio-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:tharciosantos09@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### ⚙️ Tecnologias & Ferramentas
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,mysql,mongodb,git,github,vscode&theme=dark" />
+### 🛠️ Minha Stack Principal
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,mysql,mongodb,git,github,vscode&theme=dark&perline=12" />
 
-<br>
+<br><br>
 
-<h4>🧩 Em aprendizado:</h4>
-<img src="https://skillicons.dev/icons?i=ts,prisma,supabase,nextauth&theme=dark" height="40" />
+<h3>⚡ Leveling Up: Skills em desenvolvimento</h3>
+<img src="https://skillicons.dev/icons?i=ts,prisma,supabase,nextauth&theme=dark" height="45" />
 
 ---
 
@@ -37,37 +41,37 @@ com foco em boas práticas, performance e aprendizado contínuo.
 <table align="center">
   <tr>
     <td align="center" width="280">
-      <h4>💼 <a href="https://github.com/tharcio09/meu-portfolio" target="_blank">meu-portfolio</a></h4>
-      <p>Portfólio pessoal desenvolvido com <b>Next.js</b>, <b>React</b> e <b>Tailwind CSS</b>.  
-      Focado em design moderno, responsivo e desempenho.</p>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vercel" height="25">
+      <h4>💼 <a href="https://github.com/tharcio09/meu-portfolio" target="_blank">Meu Portfólio</a></h4>
+      <p>Identidade visual moderna e responsiva com <b>Next.js</b> e <b>Tailwind</b>.</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vercel" height="20">
     </td>
     <td align="center" width="280">
-      <h4>🛠️ <a href="https://github.com/tharcio09/helpflow" target="_blank">helpflow</a></h4>
-      <p>Sistema de HelpDesk Full-Stack com <b>Next.js</b>, <b>Prisma</b> e <b>Supabase</b>,  
-      integrando autenticação e banco de dados em tempo real.</p>
-      <img src="https://skillicons.dev/icons?i=nextjs,prisma,supabase,nextauth" height="25">
+      <h4>🛠️ <a href="https://github.com/tharcio09/helpflow" target="_blank">Helpflow</a></h4>
+      <p>HelpDesk completo com autenticação e banco realtime via <b>Supabase</b>.</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,prisma,supabase,nextauth" height="20">
     </td>
     <td align="center" width="280">
-      <h4>📊 <a href="https://github.com/tharcio09/crypto-dashboard" target="_blank">crypto-dashboard</a></h4>
-      <p>Dashboard para visualização de dados de criptomoedas,  
-      utilizando <b>Next.js</b>, <b>React</b> e <b>Tailwind CSS</b>.</p>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,javascript" height="25">
+      <h4>📊 <a href="https://github.com/tharcio09/crypto-dashboard" target="_blank">Crypto Dash</a></h4>
+      <p>Monitoramento de criptomoedas em tempo real e análise de dados.</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,javascript" height="20">
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 Minhas Métricas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tharcio09&show_icons=true&theme=react&hide_border=true&count_private=true&cache_seconds=7200" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharcio09&layout=compact&theme=react&hide_border=true&cache_seconds=7200" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tharcio09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharcio09&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 🖤 _“Codar, aprender e evoluir.”_
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 </div>
