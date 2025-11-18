@@ -25,8 +25,10 @@ com foco em boas práticas, performance e aprendizado contínuo.
 ### ⚙️ Tecnologias & Ferramentas
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,mysql,mongodb,git,github,vscode&theme=dark" />
 
-#### 🧩 Em aprendizado:
-<img src="https://skillicons.dev/icons?i=ts,prisma,supabase,authjs&theme=dark" height="25" />
+<br>
+
+<h4>🧩 Em aprendizado:</h4>
+<img src="https://skillicons.dev/icons?i=ts,prisma,supabase,nextauth&theme=dark" height="40" />
 
 ---
 
@@ -44,7 +46,7 @@ com foco em boas práticas, performance e aprendizado contínuo.
       <h4>🛠️ <a href="https://github.com/tharcio09/helpflow" target="_blank">helpflow</a></h4>
       <p>Sistema de HelpDesk Full-Stack com <b>Next.js</b>, <b>Prisma</b> e <b>Supabase</b>,  
       integrando autenticação e banco de dados em tempo real.</p>
-      <img src="https://skillicons.dev/icons?i=nextjs,prisma,supabase,authjs" height="25">
+      <img src="https://skillicons.dev/icons?i=nextjs,prisma,supabase,nextauth" height="25">
     </td>
     <td align="center" width="280">
       <h4>📊 <a href="https://github.com/tharcio09/crypto-dashboard" target="_blank">crypto-dashboard</a></h4>
