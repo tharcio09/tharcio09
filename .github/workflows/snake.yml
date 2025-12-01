@@ -1,0 +1,30 @@
+name: Generate Snake
+on:
+  # Roda automaticamente a cada 24 horas
+  schedule: [{cron: "0 0 * * *"}] 
+  # Permite rodar manualmente na aba Actions
+  workflow_dispatch:
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions: 
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
+        with:
+          # Seu usuário do GitHub
+          github_user_name: tharcio09
+          # Onde a imagem será salva e qual tema usar
+          outputs: dist/snake.svg?palette=github-dark
+          
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # A branch onde a imagem vai ficar guardada
+          target_branch: output
+          build_dir: dist
+        env:
+          # Aqui usamos o token padrão do GitHub, não precisa daquele METRICS_TOKEN
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
