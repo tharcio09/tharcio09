@@ -7,8 +7,9 @@
 <p>
   Transformo ideias em soluções digitais eficientes e intuitivas.<br>
   Buscando minha primeira oportunidade como desenvolvedor para crescer na prática.<br>
-  Foco em boas práticas, performance e aprendizado contínuo.
+  Foco em boas práticas, performance, <b>TypeScript</b> e aprendizado contínuo.
 </p>
+
 
 ***
 
@@ -32,7 +33,8 @@
 
 <br><br>
 
-### ⚡ Em evolução: skills em desenvolvimento
+### ⚡ Em evolução: foco atual em TypeScript e backend
+
 <img src="https://skillicons.dev/icons?i=ts,prisma,supabase,nextauth&theme=dark" height="45" />
 
 ***
@@ -57,7 +59,7 @@
       <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,javascript" height="20">
     </td>
     <td align="center" width="280">
-      <h4>🛒 <a href="https://github.com/tharcio09/crypto-dashboard" target="_blank">Lista de Mercado</a></h4>
+      <h4>🛒 <a href="https://github.com/tharcio09/lista-mercado" target="_blank">Lista de Mercado</a></h4>
       <p>Um aplicativo de gestão de compras, organização e agilidade no supermercado.</p>
       <img src="https://skillicons.dev/icons?i=react,vite,tailwind,javascript" height="20">
     </td>
