@@ -81,10 +81,6 @@
   />
 </p>
 
-
-
-
-
 🖤 _“Codar, aprender e evoluir.”_
 
 <p align="center">
