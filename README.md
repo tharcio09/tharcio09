@@ -58,16 +58,6 @@
   </tr>
 </table>
 
----
-
-### 📈 Minhas Métricas
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tharcio09/tharcio09/output/snake.svg" alt="Snake animation" width="100%" />
-</p>
-
----
-
 🖤 _“Codar, aprender e evoluir.”_
 
 <p align="center">
