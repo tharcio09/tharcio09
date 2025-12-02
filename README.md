@@ -6,10 +6,11 @@
 
 <p>
   Transformo ideias em soluções digitais eficientes e intuitivas.<br>
+  Buscando minha primeira oportunidade como desenvolvedor para crescer na prática.<br>
   Foco em boas práticas, performance e aprendizado contínuo.
 </p>
 
----
+***
 
 ### 🌍 Conecte-se comigo
 <div style="display: flex; justify-content: center; gap: 10px;">
@@ -24,17 +25,17 @@
   </a>
 </div>
 
----
+***
 
 ### 🛠️ Minha Stack Principal
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,mysql,mongodb,git,github,vscode&theme=dark&perline=12" />
 
 <br><br>
 
-<h3>⚡ Leveling Up: Skills em desenvolvimento</h3>
+### ⚡ Em evolução: skills em desenvolvimento
 <img src="https://skillicons.dev/icons?i=ts,prisma,supabase,nextauth&theme=dark" height="45" />
 
----
+***
 
 <h3 align="center">🚀 Projetos em Destaque</h3>
 
@@ -55,8 +56,34 @@
       <p>Monitoramento de criptomoedas em tempo real e análise de dados.</p>
       <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,javascript" height="20">
     </td>
+    <td align="center" width="280">
+      <h4>🛒 <a href="https://github.com/tharcio09/crypto-dashboard" target="_blank">Lista de Mercado</a></h4>
+      <p>Um aplicativo de gestão de compras, organização e agilidade no supermercado.</p>
+      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,javascript" height="20">
+    </td>
   </tr>
 </table>
+
+---
+
+### 📊 Minhas métricas no GitHub
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=tharcio09&show_icons=true&theme=react&hide_border=true&count_private=true" 
+    alt="GitHub Stats"
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tharcio09&layout=compact&theme=react&hide_border=true" 
+    alt="Top Langs"
+    height="160"
+  />
+</p>
+
+
+
+
 
 🖤 _“Codar, aprender e evoluir.”_
 
@@ -64,3 +91,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 </div>
+
