@@ -30,7 +30,7 @@ Atualmente em evolução constante com **TypeScript** e tecnologias de backend, 
 - Prisma  
 - Supabase  
 - NextAuth
-- - Cypress (Testes automatizados end-to-end)  
+- Cypress (Testes automatizados end-to-end)  
 
 ---
 
