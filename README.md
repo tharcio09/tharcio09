@@ -83,7 +83,4 @@ Estou em busca da minha **primeira oportunidade** para aplicar meus conhecimento
 
 ---
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/tharcio09/tharcio09/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+
