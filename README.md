@@ -72,15 +72,16 @@ Estou em busca da minha **primeira oportunidade** para aplicar meus conhecimento
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharcio09&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharcio09&layout=compact&theme=dracula&hide_border=true" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharcio09&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharcio09&layout=compact&theme=dracula&hide_border=true"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=tharcio09&theme=dracula&hide_border=true" alt="streak stats" />
-</div>
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=tharcio09&theme=dracula&hide_border=true"/>
+</p>
 
 ---
+
 
 
