@@ -46,7 +46,6 @@ Estou em busca da minha **primeira oportunidade** para aplicar meus conhecimento
 **Backend & Database**  
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E">
 
@@ -73,8 +72,8 @@ Estou em busca da minha **primeira oportunidade** para aplicar meus conhecimento
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharcio09&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharcio09&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tharcio09&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tharcio09&layout=compact&theme=dracula&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -82,6 +81,7 @@ Estou em busca da minha **primeira oportunidade** para aplicar meus conhecimento
 </p>
 
 ---
+
 
 
 
