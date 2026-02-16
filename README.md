@@ -99,9 +99,6 @@
 ## 🌎 Idiomas
 
 - Português — Nativo  
-## 🌎 Idiomas
-
-- Português — Nativo  
 - Inglês — Básico (focado em leitura técnica e aprendizado contínuo)  
 
 ---
