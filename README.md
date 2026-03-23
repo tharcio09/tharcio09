@@ -92,15 +92,6 @@ Estou constantemente estudando **arquitetura de aplicações, autenticação, AP
 
 ---
 
-# Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tharcio09&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tharcio09&layout=compact&theme=dracula&hide_border=true"/>
-</p>
-
----
-
 # Idiomas
 
 * 🇧🇷 Português — Nativo
