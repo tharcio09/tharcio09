@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=27E1C1&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+Tharcio+Santos;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia" />
 </div>
 
-<h3 align="center">🚀 Desenvolvedor Full Stack focado em criar aplicações modernas com JavaScript e TypeScript</h3>
+<h3 align="center">Desenvolvedor Full Stack focado em criar aplicações modernas com JavaScript e TypeScript</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tharcio-santos-dev/" target="_blank">
@@ -20,24 +20,24 @@
 
 # 👨‍💻 Sobre Mim
 
-💡 Desenvolvedor **Full Stack em início de carreira**, apaixonado por tecnologia e pela construção de aplicações web modernas.
+Desenvolvedor **Full Stack em início de carreira**, apaixonado por tecnologia e pela construção de aplicações web modernas.
 
-🎯 Atualmente focado no ecossistema **JavaScript / TypeScript**, trabalhando com desenvolvimento de aplicações completas utilizando **React, Next.js e Node.js**.
+Atualmente focado no ecossistema **JavaScript / TypeScript**, trabalhando com desenvolvimento de aplicações completas utilizando **React, Next.js e Node.js**.
 
-📚 Estou constantemente estudando **arquitetura de aplicações, autenticação, APIs e boas práticas de desenvolvimento**, buscando evoluir como desenvolvedor e gerar impacto real através da tecnologia.
-
----
-
-# 📌 Atualmente
-
-* 🔭 Construindo aplicações **Full Stack com Next.js**
-* 📚 Estudando **arquitetura de backend e organização de projetos**
-* 🔐 Aprendendo **autenticação e segurança com NextAuth**
-* 🎯 Buscando minha **primeira oportunidade profissional como desenvolvedor**
+Estou constantemente estudando **arquitetura de aplicações, autenticação, APIs e boas práticas de desenvolvimento**, buscando evoluir como desenvolvedor e gerar impacto real através da tecnologia.
 
 ---
 
-# 🧠 Principais conhecimentos
+# Atualmente
+
+* Construindo aplicações **Full Stack com Next.js**
+* Estudando **arquitetura de backend e organização de projetos**
+* Aprendendo **autenticação e segurança com NextAuth**
+* Buscando minha **primeira oportunidade profissional como desenvolvedor**
+
+---
+
+# Principais conhecimentos
 
 * Desenvolvimento **Full Stack**
 * Construção de **APIs REST**
@@ -48,9 +48,9 @@
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-## 🎨 Frontend
+## Frontend
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-## ⚙️ Backend & Database
+## Backend & Database
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -71,7 +71,7 @@
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 </p>
 
-## 🧰 Ferramentas
+## Ferramentas
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -81,7 +81,7 @@
 
 ---
 
-# 🚀 Projetos em Destaque
+# Projetos em Destaque
 
 | Projeto                                                        | Descrição                                                                                          | Stack                                  |
 | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------- |
@@ -92,27 +92,23 @@
 
 ---
 
-# 📊 Estatísticas do GitHub
+# Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tharcio09&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tharcio09&layout=compact&theme=dracula&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharcio09&theme=dracula&hide_border=true"/>
-</p>
-
 ---
 
-# 🌎 Idiomas
+# Idiomas
 
 * 🇧🇷 Português — Nativo
 * 🇺🇸 Inglês — Básico (leitura técnica e aprendizado contínuo)
 
 ---
 
-# 🤝 Vamos conectar?
+# Vamos conectar?
 
 Estou sempre aberto a **networking, colaboração em projetos e oportunidades na área de desenvolvimento**.
 
