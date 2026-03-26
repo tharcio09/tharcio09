@@ -86,9 +86,9 @@ Estou constantemente estudando **arquitetura de aplicações, autenticação, AP
 | Projeto                                                        | Descrição                                                                                          | Stack                                  |
 | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | [Meu Portfólio](https://tharcio-portfolio.vercel.app/)         | Portfólio pessoal moderno e responsivo apresentando meus projetos e habilidades como desenvolvedor | Next.js / Tailwind                     |
-| [Helpflow](https://github.com/tharcio09/helpflow)              | Sistema completo de HelpDesk com autenticação de usuários e gerenciamento de tickets               | Next.js / Supabase / Prisma / NextAuth |
-| [Crypto Dash](https://github.com/tharcio09/crypto-dashboard)   | Dashboard que consome APIs externas para exibir dados de criptomoedas em tempo real                | React / APIs                           |
-| [Lista de Mercado](https://github.com/tharcio09/lista-mercado) | Aplicação simples para organização de compras e gerenciamento de itens                             | React / JavaScript                     |
+| [Helpflow](https://helpflow.vercel.app/login)                  | Sistema completo de HelpDesk com autenticação de usuários e gerenciamento de tickets               | Next.js / Supabase / Prisma / NextAuth |
+| [Crypto Dash](https://crypto-dashboard-five-sandy.vercel.app/) | Dashboard que consome APIs externas para exibir dados de criptomoedas em tempo real                | React / APIs                           |
+| [Lista de Mercado](https://lista-mercado-sage.vercel.app/)     | Aplicação simples para organização de compras e gerenciamento de itens                             | React / JavaScript                     |
 
 ---
 
