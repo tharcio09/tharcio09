@@ -94,8 +94,8 @@ Estou constantemente estudando **arquitetura de aplicações, autenticação, AP
 
 # Idiomas
 
-🇧🇷 Português — Nativo
-🇺🇸 Inglês — Básico (leitura técnica e aprendizado contínuo)
+* 🇧🇷 Português — Nativo
+* 🇺🇸 Inglês — Básico (leitura técnica e aprendizado contínuo)
 
 ---
 
