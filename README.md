@@ -56,10 +56,10 @@ Recrutadores adoram ver código! Abaixo estão os meus projetos que refletem min
 
 | Projeto | Descrição | Stack Principal | Repositório |
 |---------|-----------|-----------------|-------------|
-| 🌐 **[Meu Portfólio](https://tharcio-portfolio.vercel.app/)** | Portfólio moderno, responsivo, com *Dark Mode* e **SEO auditado**. | Next.js, TS, Tailwind | [🔗 Acessar Código](https://github.com/tharcio09/tharcioport) |
-| 📋 **[HelpFlow](https://helpflow.vercel.app/)** | Sistema Saas de HelpDesk com Autenticação, Banco de Dados e criação de Tickets. | Next.js, Prisma, NextAuth | [🔗 Acessar Código](https://github.com/tharcio09/helpflow) |
-| 📈 **[Crypto Dash](https://crypto-dashboard-five-sandy.vercel.app/)** | Dashboard de consumo da API da *CoinGecko* exibindo dados de criptos em tempo real. | React, APIs REST | [🔗 Acessar Código](https://github.com/tharcio09/crypto-dashboard) |
-| 🛒 **[Lista PWA](https://lista-mercado-sage.vercel.app/)** | App Mobile-First de Lista de Compras integrando *Local Storage* para persistência de itens. | React, Vite | [🔗 Acessar Código](https://github.com/tharcio09/lista-mercado) |
+| **[Meu Portfólio](https://tharcio-portfolio.vercel.app/)** | Portfólio moderno, responsivo, com *Dark Mode* e **SEO auditado**. | Next.js, TS, Tailwind | [🔗 Acessar Código](https://github.com/tharcio09/tharcioport) |
+| **[HelpFlow](https://helpflow.vercel.app/)** | Sistema Saas de HelpDesk com Autenticação, Banco de Dados e criação de Tickets. | Next.js, Prisma, NextAuth | [🔗 Acessar Código](https://github.com/tharcio09/helpflow) |
+| **[Crypto Dash](https://crypto-dashboard-five-sandy.vercel.app/)** | Dashboard de consumo da API da *CoinGecko* exibindo dados de criptos em tempo real. | React, APIs REST | [🔗 Acessar Código](https://github.com/tharcio09/crypto-dashboard) |
+| **[Lista PWA](https://lista-mercado-sage.vercel.app/)** | App Mobile-First de Lista de Compras integrando *Local Storage* para persistência de itens. | React, Vite | [🔗 Acessar Código](https://github.com/tharcio09/lista-mercado) |
 
 ---
 
