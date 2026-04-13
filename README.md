@@ -1,30 +1,51 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=27E1C1&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+Tharcio+Santos;Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <h1>Tharcio Santos</h1>
+  <p><strong>Desenvolvedor Full Stack | JavaScript | TypeScript | React | Node.js</strong></p>
 </div>
 
-<h3 align="center">Desenvolvedor Full-Stack focado em criar aplicações web modernas, rápidas e escaláveis.</h3>
+---
+
+🚀 Desenvolvedor Full Stack focado em JavaScript/TypeScript, criando aplicações web completas com React, Next.js e Node.js.  
+
+💡 Experiência prática com autenticação, APIs REST, integração com banco de dados e deploy em produção.  
+
+🎯 Buscando minha primeira oportunidade como Desenvolvedor Júnior.
+
+---
 
 <div align="center">
   <a href="https://tharcio-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tharcio-santos-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tharciosantos09@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-<br/>
+---
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor Full-Stack com foco no ecossistema **JavaScript/TypeScript**.
+Sou desenvolvedor Full Stack em formação, com foco no ecossistema JavaScript/TypeScript.
 
-Tenho experiência na criação de interfaces responsivas, integração com APIs, autenticação e construção de aplicações completas com **React, Next.js e Node.js**.
+Tenho experiência prática desenvolvendo aplicações completas, incluindo autenticação de usuários, consumo de APIs, gerenciamento de estado e integração com banco de dados.
 
-Busco minha primeira oportunidade como **Estágio ou Júnior**, onde eu possa evoluir com um time experiente e contribuir com soluções reais.
+Já desenvolvi projetos full stack com deploy em produção, aplicando boas práticas como separação de responsabilidades, proteção de rotas e testes automatizados.
+
+Atualmente busco minha primeira oportunidade como Desenvolvedor Júnior, onde eu possa contribuir com projetos reais e evoluir com o time.
+
+---
+
+## ⚡ Diferenciais
+
+- Experiência com CI/CD utilizando GitHub Actions  
+- Testes E2E com Cypress  
+- Gerenciamento de estado com React Query  
+- Integração com serviços externos (Cloudinary)  
+- Deploy de aplicações em produção (Vercel)  
 
 ---
 
@@ -52,26 +73,17 @@ Busco minha primeira oportunidade como **Estágio ou Júnior**, onde eu possa ev
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Stack Principal | Repositório |
-|---------|-----------|-----------------|-------------|
-| **[Meu Portfólio](https://tharcio-portfolio.vercel.app/)** | Portfólio responsivo com dark mode e SEO. | Next.js, TypeScript, Tailwind | [Código](https://github.com/tharcio09/meu-portfolio) |
-| **[HelpFlow](https://helpflow.vercel.app/)** | SaaS de HelpDesk com autenticação, banco de dados e tickets. | Next.js, Prisma, NextAuth | [Código](https://github.com/tharcio09/helpflow) |
-| **[Crypto Dash](https://crypto-dashboard-five-sandy.vercel.app/)** | Dashboard consumindo a API da CoinGecko com dados de criptos. | React, APIs REST | [Código](https://github.com/tharcio09/crypto-dashboard) |
-| **[Lista PWA](https://lista-mercado-sage.vercel.app/)** | App mobile-first de lista de compras com persistência local. | React, Vite, Tailwind | [Código](https://github.com/tharcio09/lista-mercado) |
-| **[DevLinks](https://frontend-api-weld.vercel.app/)** | Gerenciamento de páginas de links personalizadas (estilo Linktree). | React, Vite, Tailwind | [Código](https://github.com/tharcio09/frontend-api) |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tharcio09&theme=onedark" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharcio09&theme=onedark&hide_border=true&background=0D1117" alt="Estatísticas de Contribuição" width="48%" />
-</div>
+| Projeto | Descrição | Stack | Link |
+|--------|----------|------|------|
+| **[DevLinks](https://frontend-api-weld.vercel.app/)** | Aplicação full stack estilo Linktree com autenticação JWT, upload de imagens (Cloudinary), API REST e testes E2E. | React, Node.js, Express | [Código](https://github.com/tharcio09/frontend-api) |
+| **[HelpFlow](https://helpflow.vercel.app/)** | Sistema de HelpDesk com autenticação, API REST e gerenciamento de tickets. | Next.js, Prisma, NextAuth | [Código](https://github.com/tharcio09/helpflow) |
+| **[Portfólio](https://tharcio-portfolio.vercel.app/)** | Portfólio pessoal responsivo com SEO e dark mode. | Next.js, TypeScript, Tailwind | [Código](https://github.com/tharcio09/meu-portfolio) |
+| **[Crypto Dashboard](https://crypto-dashboard-five-sandy.vercel.app/)** | Dashboard com consumo de API de criptomoedas. | React, APIs REST | [Código](https://github.com/tharcio09/crypto-dashboard) |
+| **[Lista PWA](https://lista-mercado-sage.vercel.app/)** | Aplicação mobile-first com persistência local. | React, Vite | [Código](https://github.com/tharcio09/lista-mercado) |
 
 ---
 
 <div align="center">
-  <b>Vamos construir algo incrível juntos?</b><br/>
+  <b>💬 Vamos construir algo incrível juntos?</b><br/>
   Me chame no <a href="https://www.linkedin.com/in/tharcio-santos-dev/">LinkedIn</a> ou envie um <a href="mailto:tharciosantos09@gmail.com">e-mail</a>.
 </div>
