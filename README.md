@@ -90,8 +90,8 @@ Tenho experiência prática em:
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=tharcio09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharcio09&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-stats-steel-nine-66.vercel.app/api?username=tharcio09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="160em" src="https://github-readme-stats-steel-nine-66.vercel.app/api/top-langs/?username=tharcio09&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 
 </div>
 
