@@ -5,8 +5,8 @@ Desenvolvedor Full Stack Júnior em formação, com foco em aplicações web mod
 </p>
 
 <p align="center">
-<a href="https://tharcio-portfolio.vercel.app/">Portfólio</a> •
-<a href="https://www.linkedin.com/in/tharcio-santos-dev/">LinkedIn</a> •
+<a href="https://tharcio-portfolio.vercel.app/">Portfólio</a> ·
+<a href="https://www.linkedin.com/in/tharcio-santos-dev/">LinkedIn</a> ·
 <a href="mailto:tharciosantos09@gmail.com">E-mail</a>
 </p>
 
@@ -35,6 +35,19 @@ const stack = {
 }
 ```
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
 ---
 
 ## Projetos em destaque
@@ -55,15 +68,11 @@ const stack = {
 - Modelagem e integração com banco de dados relacional usando Prisma e PostgreSQL
 - Autenticação, autorização e controle de acesso por perfil
 - Testes E2E com Cypress
-- Deploy de aplicações na Vercel
+- Deploy de aplicações na Vercel e CI/CD com GitHub Actions
 - Organização de código, documentação e versionamento com Git/GitHub
 
 ---
 
-## Contato
-
-Estou aberto a oportunidades como **Desenvolvedor Full Stack Júnior**, **Desenvolvedor Front-end Júnior** ou **Estagiário em Desenvolvimento Web**.
-
-- Portfólio: [tharcio-portfolio.vercel.app](https://tharcio-portfolio.vercel.app/)
-- LinkedIn: [linkedin.com/in/tharcio-santos-dev](https://www.linkedin.com/in/tharcio-santos-dev/)
-- E-mail: [tharciosantos09@gmail.com](mailto:tharciosantos09@gmail.com)
+<p align="center">
+  Vamos conversar? <a href="https://www.linkedin.com/in/tharcio-santos-dev/">LinkedIn</a> · <a href="mailto:tharciosantos09@gmail.com">tharciosantos09@gmail.com</a>
+</p>
