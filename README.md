@@ -56,7 +56,7 @@ const stack = {
 | Projeto | Descrição | Tecnologias | Links |
 |---|---|---|---|
 | 🎫 **HelpFlow** | Sistema de help desk full stack com autenticação por sessão, CRUD de tickets, controle de acesso por perfil e banco relacional. | Next.js, Prisma, PostgreSQL, NextAuth | [Demo](https://helpflow.vercel.app/login) · [Código](https://github.com/tharciosantos/helpflow) |
-| 🔗 **DevLinks** | Plataforma de links personalizados com API REST, upload de imagens via Cloudinary e testes E2E com Cypress. | React, Node.js, Cloudinary, Cypress | [Demo](https://frontend-api-weld.vercel.app/) · [Front-end](https://github.com/tharciosantos/devlinks-web) · [API](https://github.com/tharciosantos/devlinks-api) |
+| 🔗 **DevLinks** | Plataforma de links personalizados com API REST, upload de imagens via Cloudinary e testes E2E com Cypress. | React, Node.js, Cloudinary, Cypress | [Demo](https://frontend-api-weld.vercel.app/) · [Web](https://github.com/tharciosantos/devlinks-web) · [API](https://github.com/tharciosantos/devlinks-api) |
 | 🛒 **Lista de Mercado** | PWA de lista de compras com funcionamento offline, persistência local e compartilhamento via WhatsApp. | React, Vite, PWA, LocalStorage | [Demo](https://lista-mercado-sage.vercel.app/) · [Código](https://github.com/tharciosantos/lista-mercado) |
 | 📊 **Crypto Dashboard** | Dashboard com SSR e consumo de dados atualizados de criptomoedas via API da CoinGecko. | Next.js, SSR, API externa | [Demo](https://crypto-dashboard-five-sandy.vercel.app/) · [Código](https://github.com/tharciosantos/crypto-dashboard) |
 
