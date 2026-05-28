@@ -1,17 +1,17 @@
 <h1 align="center">Tharcio Santos</h1>
 
 <p align="center">
-Desenvolvedor Full Stack Júnior em formação, com foco em aplicações web modernas usando React, Next.js, Node.js e PostgreSQL.
+  Desenvolvedor Full Stack Júnior em formação, com foco em aplicações web modernas usando React, Next.js, Node.js e PostgreSQL.
 </p>
 
 <p align="center">
-<a href="https://tharcio-portfolio.vercel.app/">Portfólio</a> ·
-<a href="https://www.linkedin.com/in/tharcio-santos-dev/">LinkedIn</a> ·
-<a href="mailto:tharciosantos09@gmail.com">E-mail</a>
+  <a href="https://tharcio-portfolio.vercel.app/">🌐 Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/tharcio-santos-dev/">💼 LinkedIn</a> ·
+  <a href="mailto:tharciosantos09@gmail.com">✉️ E-mail</a>
 </p>
 
 <p align="center">
-Minas Gerais, Brasil · Aberto a oportunidades como Desenvolvedor Full Stack Júnior, Front-end Júnior ou Estagiário
+  📍 Minas Gerais, Brasil &nbsp;·&nbsp; 🚀 Aberto a oportunidades como Desenvolvedor Full Stack Júnior, Front-end Júnior ou Estagiário
 </p>
 
 ---
@@ -29,9 +29,9 @@ Tenho experiência prática com projetos que envolvem autenticação, banco de d
 ```ts
 const stack = {
   frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "Prisma", "PostgreSQL", "Supabase"],
-  testes: ["Cypress"],
-  deploy: ["Vercel", "GitHub Actions"],
+  backend:  ["Node.js", "Prisma", "PostgreSQL", "Supabase"],
+  testes:   ["Cypress"],
+  deploy:   ["Vercel", "GitHub Actions"],
 }
 ```
 
@@ -46,6 +46,7 @@ const stack = {
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ---
@@ -54,25 +55,31 @@ const stack = {
 
 | Projeto | Descrição | Tecnologias | Links |
 |---|---|---|---|
-| **HelpFlow** | Sistema de help desk full stack com autenticação por sessão, CRUD de tickets, controle de acesso por perfil e banco relacional. | Next.js, Node.js, Prisma, PostgreSQL | [Demo](https://helpflow.vercel.app/login) · [Código](https://github.com/tharcio09/helpflow) |
-| **DevLinks** | Plataforma de links personalizados com API REST, upload de imagens via Cloudinary e testes E2E com Cypress. | React, Node.js, Cloudinary, Cypress | [Demo](https://frontend-api-weld.vercel.app/) · [Código](https://github.com/tharcio09/frontend-api) |
-| **Lista de Mercado** | PWA de lista de compras com funcionamento offline, persistência local e compartilhamento via WhatsApp. | React, PWA, LocalStorage | [Demo](https://lista-mercado-sage.vercel.app/) · [Código](https://github.com/tharcio09/lista-mercado) |
-| **Crypto Dashboard** | Dashboard com SSR e consumo de dados de criptomoedas via API da CoinGecko. | Next.js, SSR, API externa | [Demo](https://crypto-dashboard-five-sandy.vercel.app/) · [Código](https://github.com/tharcio09/crypto-dashboard) |
+| 🎫 **HelpFlow** | Sistema de help desk full stack com autenticação por sessão, CRUD de tickets, controle de acesso por perfil e banco relacional. | Next.js, Prisma, PostgreSQL, NextAuth | [Demo](https://helpflow.vercel.app/login) · [Código](https://github.com/tharciosantos/helpflow) |
+| 🔗 **DevLinks** | Plataforma de links personalizados com API REST, upload de imagens via Cloudinary e testes E2E com Cypress. | React, Node.js, Cloudinary, Cypress | [Demo](https://frontend-api-weld.vercel.app/) · [Front-end](https://github.com/tharciosantos/devlinks-web) · [API](https://github.com/tharciosantos/devlinks-api) |
+| 🛒 **Lista de Mercado** | PWA de lista de compras com funcionamento offline, persistência local e compartilhamento via WhatsApp. | React, Vite, PWA, LocalStorage | [Demo](https://lista-mercado-sage.vercel.app/) · [Código](https://github.com/tharciosantos/lista-mercado) |
+| 📊 **Crypto Dashboard** | Dashboard com SSR e consumo de dados atualizados de criptomoedas via API da CoinGecko. | Next.js, SSR, API externa | [Demo](https://crypto-dashboard-five-sandy.vercel.app/) · [Código](https://github.com/tharciosantos/crypto-dashboard) |
 
 ---
 
-## O que venho praticando
+## GitHub Stats
 
-- Desenvolvimento de interfaces responsivas com React, Next.js e Tailwind CSS
-- Criação de APIs REST com Node.js
-- Modelagem e integração com banco de dados relacional usando Prisma e PostgreSQL
-- Autenticação, autorização e controle de acesso por perfil
-- Testes E2E com Cypress
-- Deploy de aplicações na Vercel e CI/CD com GitHub Actions
-- Organização de código, documentação e versionamento com Git/GitHub
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=tharciosantos&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+</p>
+
+---
+
+## Atualmente aprendendo
+
+- 🧪 Testes unitários com **Jest** e **Testing Library**
+- 🐳 **Docker** e containerização de aplicações
+- 🏗️ Princípios de **Clean Architecture** e boas práticas de design
+- 📐 **SOLID** aplicado a projetos Node.js
 
 ---
 
 <p align="center">
-  Vamos conversar? <a href="https://www.linkedin.com/in/tharcio-santos-dev/">LinkedIn</a> · <a href="mailto:tharciosantos09@gmail.com">tharciosantos09@gmail.com</a>
+  Vamos conversar? &nbsp;
+  <a href="https://www.linkedin.com/in/tharcio-santos-dev/">LinkedIn</a> · <a href="mailto:tharciosantos09@gmail.com">tharciosantos09@gmail.com</a>
 </p>
