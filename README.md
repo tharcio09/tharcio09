@@ -1,85 +1,88 @@
 <h1 align="center">Tharcio Santos</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack Júnior em formação, com foco em aplicações web modernas usando React, Next.js, Node.js e PostgreSQL.
+  <img src="https://img.shields.io/badge/Disponível%20para%20oportunidade-Júnior%20%7C%20Estágio-4f46e5?style=for-the-badge" alt="Disponível para oportunidade" />
 </p>
 
 <p align="center">
-  <a href="https://tharcio-portfolio.vercel.app/">🌐 Portfólio</a> ·
-  <a href="https://www.linkedin.com/in/tharcio-santos-dev/">💼 LinkedIn</a> ·
-  <a href="mailto:tharciosantos09@gmail.com">✉️ E-mail</a>
+  Desenvolvedor Full Stack Júnior buscando a primeira oportunidade profissional.<br/>
+  Construo aplicações completas com React, Next.js e Node.js — com código público e deploy em produção.
 </p>
 
 <p align="center">
-  📍 Minas Gerais, Brasil &nbsp;·&nbsp; 🚀 Aberto a oportunidades como Desenvolvedor Full Stack Júnior, Front-end Júnior ou Estagiário
+  <a href="https://tharcio-portfolio.vercel.app"><strong>Ver portfólio completo →</strong></a>
 </p>
 
----
-
-## Sobre mim
-
-Sou desenvolvedor full stack júnior em formação, com foco na construção de aplicações web completas, bem organizadas e com deploy em produção.
-
-Tenho experiência prática com projetos que envolvem autenticação, banco de dados relacional, APIs REST, upload de arquivos, PWA, testes E2E e deploy contínuo. Busco minha primeira oportunidade profissional como desenvolvedor júnior ou estagiário, contribuindo em equipe, aprendendo com profissionais mais experientes e entregando soluções reais.
-
----
-
-## Stack principal
-
-```ts
-const stack = {
-  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend:  ["Node.js", "Prisma", "PostgreSQL", "Supabase"],
-  testes:   ["Cypress"],
-  deploy:   ["Vercel", "GitHub Actions"],
-}
-```
-
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <a href="https://linkedin.com/in/tharcio-santos-dev">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:tharciosantos09@gmail.com">tharciosantos09@gmail.com</a> &nbsp;·&nbsp;
+  📍 Minas Gerais, Brasil
 </p>
 
 ---
 
-## Projetos em destaque
+## Projetos em produção
 
-| Projeto | Descrição | Tecnologias | Links |
-|---|---|---|---|
-| 🎫 **HelpFlow** | Sistema de help desk full stack com autenticação por sessão, CRUD de tickets, controle de acesso por perfil e banco relacional. | Next.js, Prisma, PostgreSQL, NextAuth | [Demo](https://helpflow.vercel.app/login) · [Código](https://github.com/tharciosantos/helpflow) |
-| 🔗 **DevLinks** | Plataforma de links personalizados com API REST, upload de imagens via Cloudinary e testes E2E com Cypress. | React, Node.js, Cloudinary, Cypress | [Demo](https://frontend-api-weld.vercel.app/) · [Web](https://github.com/tharciosantos/devlinks-web) · [API](https://github.com/tharciosantos/devlinks-api) |
-| 🛒 **Lista de Mercado** | PWA de lista de compras com funcionamento offline, persistência local e compartilhamento via WhatsApp. | React, Vite, PWA, LocalStorage | [Demo](https://lista-mercado-sage.vercel.app/) · [Código](https://github.com/tharciosantos/lista-mercado) |
-| 📊 **Crypto Dashboard** | Dashboard com SSR e consumo de dados atualizados de criptomoedas via API da CoinGecko. | Next.js, SSR, API externa | [Demo](https://crypto-dashboard-five-sandy.vercel.app/) · [Código](https://github.com/tharciosantos/crypto-dashboard) |
+Não tenho experiência profissional em desenvolvimento, mas tenho projetos funcionando no ar, com código público e decisões técnicas documentadas.
 
 ---
 
-## GitHub Stats
+**[HelpFlow](https://helpflow.vercel.app/login)** — Sistema de help desk fullstack  
+Autenticação por sessão com NextAuth, CRUD de tickets com status e prioridade e banco relacional com Supabase + Prisma.  
+`Next.js · TypeScript · Prisma · Supabase · NextAuth` · [ver código](https://github.com/tharciosantos/helpflow)
+
+---
+
+**[DevLinks](https://frontend-api-weld.vercel.app/)** — Plataforma de links personalizados  
+API REST separada do frontend, upload de imagens via Cloudinary, sincronização com React Query e testes E2E com Cypress.  
+`React · Node.js · React Query · Cloudinary · Cypress` · [web](https://github.com/tharciosantos/devlinks-web) · [api](https://github.com/tharciosantos/devlinks-api)
+
+---
+
+**[Lista de Mercado](https://lista-mercado-sage.vercel.app/)** — PWA offline-first  
+Aplicação instalável com funcionamento sem internet, persistência local e compartilhamento via WhatsApp.  
+`React · Vite · TypeScript · PWA` · [ver código](https://github.com/tharciosantos/lista-mercado)
+
+---
+
+**[Crypto Dashboard](https://crypto-dashboard-five-sandy.vercel.app/)** — Dashboard com SSR  
+Dados de criptomoedas em tempo real via CoinGecko API com Server-Side Rendering e layout responsivo.  
+`Next.js · TypeScript · CoinGecko API` · [ver código](https://github.com/tharciosantos/crypto-dashboard)
+
+---
+
+## O que posso contribuir
+
+- **Frontend:** interfaces responsivas com React e Next.js, atenção à experiência do usuário e acessibilidade
+- **Backend:** rotas, autenticação, CRUD, integração com banco de dados e APIs externas
+- **Qualidade:** código tipado com TypeScript, testes com Vitest e Cypress, linting e CI/CD configurados
+- **Postura:** entrego o que proponho, documento decisões e peço ajuda quando preciso
+
+---
+
+## Formação e background
+
+Curso de **Análise e Desenvolvimento de Sistemas** em andamento (Anhanguera).
+
+Antes de migrar para desenvolvimento, trabalhei em funções operacionais e administrativas — o que reforçou hábitos que levo para o código: organizar bem as informações, investigar causas antes de agir e comunicar com clareza.
+
+---
+
+## Stack
+
+React · Next.js · TypeScript · Tailwind CSS · Node.js · Prisma · Supabase · PostgreSQL  
+Vitest · Testing Library · Cypress · Git · GitHub Actions · Vercel
+
+---
+
+## Aprendendo agora
+
+Docker · Testes de integração com Vitest · Zod · Clean Architecture
+
+---
 
 <p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=tharciosantos&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-</p>
-
----
-
-## Atualmente aprendendo
-
-- 🧪 Testes unitários com **Jest** e **Testing Library**
-- 🐳 **Docker** e containerização de aplicações
-- 🏗️ Princípios de **Clean Architecture** e boas práticas de design
-- 📐 **SOLID** aplicado a projetos Node.js
-
----
-
-<p align="center">
-  Vamos conversar? &nbsp;
-  <a href="https://www.linkedin.com/in/tharcio-santos-dev/">LinkedIn</a> · <a href="mailto:tharciosantos09@gmail.com">tharciosantos09@gmail.com</a>
+  <strong>Se tiver uma vaga ou quiser bater um papo, é só chamar.</strong><br/><br/>
+  <a href="https://linkedin.com/in/tharcio-santos-dev">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:tharciosantos09@gmail.com">tharciosantos09@gmail.com</a>
 </p>
